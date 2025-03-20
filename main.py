@@ -8,8 +8,6 @@ screen.bgcolor('black')
 
 
 
-
-
 t = turtle.Turtle()
 #menu
 t.penup()
